@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtmddus)](https://solved.ac/profile/)
